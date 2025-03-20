@@ -12,6 +12,7 @@ input, button {
 #output {
   display: flex;
   flex-wrap: wrap;
+  padding: 50px;
   gap: 10px;
 }
 
